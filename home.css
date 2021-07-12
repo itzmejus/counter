@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    background-color: rgb(50, 222, 228);
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 30px;
+}
+button{
+    color: rgb(236, 243, 240);
+    background-color: blueviolet;
+    border-radius: 15px;
+    width: 100px;
+}
+
+#increment-btn{
+    background: darkred;
+}
+
+#decrement-btn{
+    background: rgb(32, 42, 185);
+}
+#save-btn{
+    background: rgb(230, 67, 18);
+}
+
+
